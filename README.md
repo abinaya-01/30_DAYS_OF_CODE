@@ -25,3 +25,7 @@ Concatenate
 with the string you read as input and print the result on a new line. 
 ```
 ![DAY_01.png](IMAGES/DAY_01.png)
+```
+Given the meal price (base cost of a meal), tip percent (the percentage of the meal price being added as tip), and tax percent (the percentage of the meal price being added as tax) for a meal, find and print the meal's total cost. Round the result to the nearest integer.
+```
+![DAY_02.png](IMAGES/DAY_02.png)
