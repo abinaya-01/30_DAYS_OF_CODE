@@ -48,3 +48,8 @@ To help you learn by example and complete this challenge, much of the code is pr
 The code that creates each instance of your Person class is in the main method. Don't worry if you don't understand it all quite yet!
 ```
 ![DAY_04.png](IMAGES/DAY_04.png)
+```
+Task
+Given an integer, , print its first multiples. Each multiple (where ) should be printed on a new line in the form: n x i = result.
+```
+![DAY_05.png](IMAGES/DAY_05.png)
