@@ -37,6 +37,7 @@ Ifis even and greater than, print Not Weird
 Complete the stub code provided in your editor to print whether or not is weird.
 ```
 ![DAY_03.png](IMAGES/DAY_03.png)
+## DAY - 04
 ```
 Task
 Write a Person class with an instance variable, , and a constructor that takes an integer, , as a parameter. 
@@ -48,8 +49,17 @@ To help you learn by example and complete this challenge, much of the code is pr
 The code that creates each instance of your Person class is in the main method. Don't worry if you don't understand it all quite yet!
 ```
 ![DAY_04.png](IMAGES/DAY_04.png)
+## DAY - 05
 ```
 Task
 Given an integer, , print its first multiples. Each multiple (where ) should be printed on a new line in the form: n x i = result.
 ```
 ![DAY_05.png](IMAGES/DAY_05.png)
+## DAY - 06
+
+```
+Task
+Given a string, , of length that is indexed from to , print its even-indexed and odd-indexed characters as space-separated strings on a single line (see the Sample below for more detail). 
+
+```
+![DAY_06.png](IMAGES/DAY_06.png)
