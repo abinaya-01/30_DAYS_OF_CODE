@@ -63,3 +63,15 @@ Given a string, , of length that is indexed from to , print its even-indexed and
 
 ```
 ![DAY_06.png](IMAGES/DAY_06.png)
+## DAY - 07
+```
+Task
+Given an array, , of integers, print 's elements in reverse order as a single line of space-separated numbers.
+```
+![DAY_07.png](IMAGES/DAY_07.png)
+## DAY - 08
+```
+Task
+Given names and phone numbers, assemble a phone book that maps friends' names to their respective phone numbers. You will then be given an unknown number of names to query your phone book for. For each queried, print the associated entry from your phone book on a new line in the form name=phoneNumber; if an entry for is not found, print Not found instead.
+```
+![DAY_08.png](IMAGES/DAY_08.png)
