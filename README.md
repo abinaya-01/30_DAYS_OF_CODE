@@ -77,20 +77,43 @@ Given names and phone numbers, assemble a phone book that maps friends' names to
 ![DAY_08.png](IMAGES/DAY_08.png)
 ## DAY - 09
 ```
+Task
+Recursive Method for Calculating Factorial
+
 ```
 ![DAY_09.png](IMAGES/DAY_09.png)
 ## DAY - 10
 ```
+Task
+Given a base- integer, , convert it to binary (base-). Then find and print the base- integer denoting the maximum number of consecutive 's in 's binary representation. When working with different bases, it is common to show the base as a subscript.
+
 ```
+![DAY_10.png](IMAGES/DAY_10.png)
 ## DAY - 11
 ```
+Task
+Calculate the hourglass sum for every hourglass in , then print the maximum hourglass sum.
+
 ```
+![DAY_11.png](IMAGES/DAY_11.png)
 ## DAY - 12
 ```
+Task
+You are given two classes, Person and Student, where Person is the base class and Student is the derived class. Completed code for Person and a declaration for Student are provided for you in the editor. Observe that Student inherits all the properties of Person.
+
 ```
+![DAY_12.png](IMAGES/DAY_12.png)
 ## DAY - 13
 ```
+Task
+Given a Book class and a Solution class, write a MyBook class that does the following:
+
 ```
+![DAY_13.png](IMAGES/DAY_13.png)
 ## DAY - 14
 ```
+Task
+Complete the Difference class by writing the following:
+
 ```
+![DAY_14.png](IMAGES/DAY_14.png)
