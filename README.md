@@ -117,3 +117,10 @@ Complete the Difference class by writing the following:
 
 ```
 ![DAY_14.png](IMAGES/DAY_14.png)
+## DAY - 15
+
+```
+Task
+Complete the insert function in your editor so that it creates a new Node (pass as the Node constructor argument) and inserts it at the tail of the linked list referenced by the parameter. Once the new node is added, return the reference to the node. 
+```
+![DAY_15.png](IMAGES/DAY_15.png)
