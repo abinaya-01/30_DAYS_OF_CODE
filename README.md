@@ -1,5 +1,5 @@
 # 30_DAYS_OF_CODE
-![welcome.png](IMAGES/welcome.png)
+
 
 ## DAY - 00
 ```
